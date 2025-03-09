@@ -15,9 +15,9 @@ using System.Windows.Shapes;
 
 namespace Ex1
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
+    /// <sumarchmary>
+    /// arch logic for MainWindow.xaml
+    /// </sumarchmary>
     public partial class MainWindow : Window
     {
         public MainWindow()

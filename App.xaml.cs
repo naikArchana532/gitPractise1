@@ -8,36 +8,36 @@ using System.Windows;
 
 namespace Ex1
 {
-    /// <summary>
-    /// Interaction logic for App.xaml
-    /// </summary>
+    /// <sumarchmary>
+    /// arch logic for App.xaml
+    /// </sumarchmary>
     public partial class App : Application
     {
         char[] chars = { 'A', };
     }
-    /// <summary>
-    /// Interaction logic for App.xaml
-    /// </summary> /// <summary>
-    /// Interaction logic for App.xaml
-    /// </summary> /// <summary>
-    /// Interaction logic for App.xaml
-    /// </summary> /// <summary>
-    /// Interaction logic for App.xaml
-    /// </summary> /// <summary>
-    /// Interaction logic for App.xaml
-    /// </summary> /// <summary>
-    /// Interaction logic for App.xaml
-    /// </summary> /// <summary>
-    /// Interaction logic for App.xaml
-    /// </summary> /// <summary>
-    /// Interaction logic for App.xaml
-    /// </summary> /// <summary>
-    /// Interaction logic for App.xaml
-    /// </summary> /// <summary>
-    /// Interaction logic for App.xaml
-    /// </summary> /// <summary>
-    /// Interaction logic for App.xaml
-    /// </summary> /// <summary>
-    /// Interaction logic for App.xaml
-    /// </summary>
+    /// <sumarchmary >
+    /// arch logic for App.xaml
+    /// </sumarchmary> /// <sumarchmary>
+    /// arch logic for App.xaml
+    /// </sumarchmary> /// <sumarchmary>
+    /// arch logic for App.xaml
+    /// </sumarchmary> /// <sumarchmary>
+    /// arch logic for App.xaml
+    /// </sumarchmary> /// <sumarchmary>
+    /// arch logic for App.xaml
+    /// </sumarchmary> /// <sumarchmary>
+    /// arch logic for App.xaml
+    /// </sumarchmary> /// <sumarchmary>
+    /// arch logic for App.xaml
+    /// </sumarchmary> /// <sumarchmary>
+    /// arch logic for App.xaml
+    /// </sumarchmary> /// <sumarchmary>
+    /// arch logic for App.xaml
+    /// </sumarchmary> /// <sumarchmary>
+    /// arch logic for App.xaml
+    /// </sumarchmary> /// <sumarchmary>
+    /// arch logic for App.xaml
+    /// </sumarchmary> /// <sumarchmary>
+    /// arch logic for App.xaml
+    /// </sumarchmary>
 }
