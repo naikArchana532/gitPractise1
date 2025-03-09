@@ -13,5 +13,31 @@ namespace Ex1
     /// </summary>
     public partial class App : Application
     {
+        char[] chars = { 'A', };
     }
+    /// <summary>
+    /// Interaction logic for App.xaml
+    /// </summary> /// <summary>
+    /// Interaction logic for App.xaml
+    /// </summary> /// <summary>
+    /// Interaction logic for App.xaml
+    /// </summary> /// <summary>
+    /// Interaction logic for App.xaml
+    /// </summary> /// <summary>
+    /// Interaction logic for App.xaml
+    /// </summary> /// <summary>
+    /// Interaction logic for App.xaml
+    /// </summary> /// <summary>
+    /// Interaction logic for App.xaml
+    /// </summary> /// <summary>
+    /// Interaction logic for App.xaml
+    /// </summary> /// <summary>
+    /// Interaction logic for App.xaml
+    /// </summary> /// <summary>
+    /// Interaction logic for App.xaml
+    /// </summary> /// <summary>
+    /// Interaction logic for App.xaml
+    /// </summary> /// <summary>
+    /// Interaction logic for App.xaml
+    /// </summary>
 }
