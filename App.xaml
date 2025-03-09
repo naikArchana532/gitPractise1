@@ -4,6 +4,8 @@
              xmlns:local="clr-namespace:Ex1"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <Style x:Key="tutton" TargetType="Button">
+            <Setter Property="Width" Value="100"></Setter>
+        </Style>
     </Application.Resources>
 </Application>
