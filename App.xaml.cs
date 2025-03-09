@@ -8,36 +8,36 @@ using System.Windows;
 
 namespace Ex1
 {
-    /// <summary>
+    /// <summary 
     /// Interaction logic for App.xaml
-    /// </summary>
+    /// </summary 
     public partial class App : Application
     {
         char[] chars = { 'A', };
     }
-    /// <summary>
+    /// <summary 
     /// Interaction logic for App.xaml
-    /// </summary> /// <summary>
+    /// </summary  /// <summary 
     /// Interaction logic for App.xaml
-    /// </summary> /// <summary>
+    /// </summary  /// <summary 
     /// Interaction logic for App.xaml
-    /// </summary> /// <summary>
+    /// </summary  /// <summary 
     /// Interaction logic for App.xaml
-    /// </summary> /// <summary>
+    /// </summary  /// <summary 
     /// Interaction logic for App.xaml
-    /// </summary> /// <summary>
+    /// </summary  /// <summary 
     /// Interaction logic for App.xaml
-    /// </summary> /// <summary>
+    /// </summary  /// <summary 
     /// Interaction logic for App.xaml
-    /// </summary> /// <summary>
+    /// </summary  /// <summary 
     /// Interaction logic for App.xaml
-    /// </summary> /// <summary>
+    /// </summary  /// <summary 
     /// Interaction logic for App.xaml
-    /// </summary> /// <summary>
+    /// </summary  /// <summary 
     /// Interaction logic for App.xaml
-    /// </summary> /// <summary>
+    /// </summary  /// <summary 
     /// Interaction logic for App.xaml
-    /// </summary> /// <summary>
+    /// </summary  /// <summary 
     /// Interaction logic for App.xaml
-    /// </summary>
+    /// </summary 
 }
